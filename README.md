@@ -24,3 +24,4 @@ sudo apt install libfreeimage-dev
 
 A simple demo:
 
+![demo](https://github.com/fz568573448/Simple-Ray-Tracer/blob/master/demo/demo.jpg)
