@@ -1,4 +1,4 @@
-This is a simple 3D rendering engine written in C++.
+This is a trivial 3D rendering engine written in C++.
 
 # Features
 
